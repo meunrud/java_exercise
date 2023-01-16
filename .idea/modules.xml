@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/programmers/ex1/ex1.iml" filepath="$PROJECT_DIR$/programmers/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BEAKJUN/BEAKJUN.iml" filepath="$PROJECT_DIR$/BEAKJUN/BEAKJUN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/beginning level/beginning level.iml" filepath="$PROJECT_DIR$/programmers/beginning level/beginning level.iml" />
       <module fileurl="file://$PROJECT_DIR$/excercise.iml" filepath="$PROJECT_DIR$/excercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/programmers/programmers.iml" filepath="$PROJECT_DIR$/programmers/programmers.iml" />
     </modules>
